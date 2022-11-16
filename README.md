@@ -1,10 +1,10 @@
 ## Oiii eu sou a Paulo Ricardo Tolentino, Especialista em Engenharia de Software!
-<div align="right">
+<div align="left">
   <a href="https://github.com/Paulo1Tolentino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo1Tolentino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo1Tolentino&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div  style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Paulo-Ts" height="30" width="auto" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Paulo-NodeJS" height="30" width="auto" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
